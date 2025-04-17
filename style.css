@@ -1,5 +1,9 @@
+@font-face {
+  font-family: Emo;
+  src: url("Autumn-Y5yj.ttf");
+}
 h1 {
-  
+  font-family: Emo;
 }
 html {
   background-color: black;
